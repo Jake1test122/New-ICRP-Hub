@@ -1,6 +1,6 @@
 import os,json,discord
 from discord.ext import commands
-TOKEN=os.getenv("DISCORD_TOKEN")
+TOKEN=os.getenv("MTU1Mzk5NTk1MzUwNDI1NjA0MA.G9ReUC.QrLw-IVSPoI9FladahTcpYBWKSulnGGR7GeBU4")
 intents=discord.Intents.default(); intents.guilds=True
 bot=commands.Bot(command_prefix="!",intents=intents)
 with open("hub_structure.json",encoding="utf-8") as f: CFG=json.load(f)
