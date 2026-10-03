@@ -1,0 +1,188 @@
+{
+  "roles": [
+    "ICRP | Founder",
+    "ICRP | Co-Founder",
+    "ICRP | Assistant Founder",
+    "ICRP | Executive Management",
+    "ICRP | Human Resources",
+    "ICRP | Department Director",
+    "ICRP | Department Management",
+    "ICRP | Senior Staff",
+    "ICRP | Staff",
+    "ICRP | Trial Staff",
+    "ICRP | Economy Staff",
+    "ICRP | Civilian Staff",
+    "ICRP | Community Staff",
+    "ICRP | Verified Staff"
+  ],
+  "categories": {
+    "\ud83d\udccc | HUB WELCOME": [
+      {
+        "name": "\ud83d\udccc\u2502hello-goodbye",
+        "type": "text"
+      },
+      {
+        "name": "\u2b50\u2502staff-verification",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udd2e\u2502chain-of-command",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udea8\u2502code-of-conduct",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udce3\u2502staff-announcements",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udcda\u25022fa",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udca1\u2502staff-suggestions",
+        "type": "text"
+      }
+    ],
+    "\ud83d\udcac | HUB STAFF WIDE": [
+      {
+        "name": "\ud83d\udcac\u2502staff-lounge",
+        "type": "text"
+      },
+      {
+        "name": "\ud83e\udd16\u2502staff-commands",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udcc4\u2502announcements-policy",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udcbc\u2502hr-server-link",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udd0a\u2502staff-training-vc",
+        "type": "voice"
+      },
+      {
+        "name": "\ud83d\udd0a\u2502staff-meeting-room",
+        "type": "voice"
+      }
+    ],
+    "\ud83d\udcbc | HUB SIDE JOBS": [
+      {
+        "name": "\ud83d\udcd6\u2502information",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udcb0\u2502economy-staff",
+        "type": "text"
+      },
+      {
+        "name": "\ud83e\uddcd\u2502civilian-staff",
+        "type": "text"
+      },
+      {
+        "name": "\ud83c\udf89\u2502community-staff",
+        "type": "text"
+      }
+    ],
+    "\ud83d\udcdd | HUB APPLICATION INFO": [
+      {
+        "name": "\u2753\u2502how-to-accept-applications",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udcdd\u2502good-and-bad-applications",
+        "type": "text"
+      }
+    ],
+    "\u26a0\ufe0f | HUB STRIKE INFO": [
+      {
+        "name": "\ud83d\uddd2\ufe0f\u2502strike-system",
+        "type": "text"
+      },
+      {
+        "name": "\ud83c\udfab\u2502strike-appeal-tickets",
+        "type": "text"
+      }
+    ],
+    "\u2753 | HUB HOW DO I": [
+      {
+        "name": "\ud83d\uddd2\ufe0f\u2502introduction",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\uddd2\ufe0f\u2502deal-with-frp",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\uddd2\ufe0f\u2502deal-with-vdm",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\uddd2\ufe0f\u2502deal-with-staff-disrespect",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\uddd2\ufe0f\u2502how-to-stop-arguments",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\uddd2\ufe0f\u2502how-to-be-professional",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udc6e\u2502how-to-host-a-session",
+        "type": "text"
+      },
+      {
+        "name": "\u2753\u2502how-to-open-a-ticket",
+        "type": "text"
+      },
+      {
+        "name": "\ud83c\udfab\u2502how-to-handle-tickets",
+        "type": "text"
+      }
+    ],
+    "\ud83d\udcd1 | HUB POLICIES": [
+      {
+        "name": "\ud83d\udcd1\u2502termination-policy",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udcd1\u2502promotion-policy",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udcd1\u2502retirement-policy",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udcd1\u2502loa-policy",
+        "type": "text"
+      }
+    ],
+    "\ud83c\udf93 | HUB TRAINING": [
+      {
+        "name": "\ud83d\udccc\u2502department-selection",
+        "type": "text"
+      },
+      {
+        "name": "\ud83e\udd16\u2502bot-commands",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udcd4\u2502roles",
+        "type": "text"
+      },
+      {
+        "name": "\ud83d\udcda\u2502staff-training-handbook",
+        "type": "text"
+      }
+    ]
+  }
+}
